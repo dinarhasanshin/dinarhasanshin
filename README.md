@@ -12,9 +12,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
-### &#9993 Mail me: hasanshindinar84@gmail.com
-### &#128241 Telegram, Viber: 89370051538
-### &#128222 VK: https://vk.com/din__has
+### &#9993; Mail me: hasanshindinar84@gmail.com
+### &#128241; Telegram, Viber: 89370051538
+### &#128222; VK: https://vk.com/din__has
 #
 > Don't worry if something doesn't work. If everything worked, you'd be fired. <br/>
 > ***Mosher’s Law of Software Engineering***
